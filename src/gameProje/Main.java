@@ -2,14 +2,6 @@ package gameProje;
 
 import java.time.LocalDate;
 
-import Concrete.CampaingManager;
-import Concrete.GameManager;
-import Concrete.GamerCheckManager;
-import Concrete.GamerManager;
-import Entity.Campaing;
-import Entity.Game;
-import Entity.Gamer;
-
 public class Main {
 
 	public static void main(String[] args) {

@@ -1,7 +1,4 @@
-package Concrete;
-
-import Abstract.CampaingService;
-import Entity.Campaing;
+package gameProje;
 
 public class CampaingManager implements CampaingService {
 

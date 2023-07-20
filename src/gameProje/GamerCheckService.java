@@ -1,6 +1,4 @@
-package Abstract;
-
-import Entity.Gamer;
+package gameProje;
 
 public interface GamerCheckService {
 

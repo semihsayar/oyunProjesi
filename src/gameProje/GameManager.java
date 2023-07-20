@@ -1,9 +1,4 @@
-package Concrete;
-
-import Abstract.GameService;
-import Entity.Campaing;
-import Entity.Game;
-import Entity.Gamer;
+package gameProje;
 
 public class GameManager implements GameService {
 

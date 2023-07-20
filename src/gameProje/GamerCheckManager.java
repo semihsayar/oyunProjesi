@@ -1,7 +1,4 @@
-package Concrete;
-
-import Abstract.GamerCheckService;
-import Entity.Gamer;
+package gameProje;
 
 public class GamerCheckManager implements GamerCheckService {
 

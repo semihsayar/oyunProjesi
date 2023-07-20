@@ -1,6 +1,4 @@
-package Abstract;
-
-import Entity.Campaing;
+package gameProje;
 
 public interface CampaingService {
 

@@ -1,6 +1,4 @@
-package Entity;
-
-import Abstract.Entity;
+package gameProje;
 
 public class Campaing implements Entity {
 	private int id;

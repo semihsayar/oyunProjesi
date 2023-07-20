@@ -1,6 +1,4 @@
-package Entity;
-
-import Abstract.Entity;
+package gameProje;
 
 public class Game implements Entity {
 

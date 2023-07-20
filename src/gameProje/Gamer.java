@@ -1,8 +1,6 @@
-package Entity;
+package gameProje;
 
 import java.time.LocalDate;
-
-import Abstract.Entity;
 
 public class Gamer implements Entity {
 
